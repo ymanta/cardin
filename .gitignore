@@ -1,0 +1,12 @@
+# Flutter/Dart build artifacts
+.dart_tool/
+build/
+*.apk
+*.aab
+*.dill
+
+# Otros archivos innecesarios
+.idea/
+*.iml
+*.log
+pubspec.lock

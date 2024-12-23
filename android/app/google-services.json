@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "176357278277",
+    "project_id": "cardin-tarjeta-digital-117d5",
+    "storage_bucket": "cardin-tarjeta-digital-117d5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176357278277:android:2da1cdc3e084de782a192c",
+        "android_client_info": {
+          "package_name": "com.cardinteligente.tarjetadigital"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5l7hUvyi8LTnYfUZEy08axPJ55O9qtFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
